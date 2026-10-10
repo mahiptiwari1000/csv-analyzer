@@ -1,0 +1,7 @@
+event_id,source_ip,severity,bytes,label
+1,10.0.0.1,high,1200,malicious
+2,10.0.0.2,low,300,benign
+3,10.0.0.3,medium,850,benign
+4,10.0.0.4,critical,4500,malicious
+5,10.0.0.5,low,200,benign
+6,10.0.0.6,high,2100,malicious
